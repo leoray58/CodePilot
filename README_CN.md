@@ -3,7 +3,7 @@
 
 **Claude Code 的桌面 GUI 客户端** -- 通过可视化界面进行对话、编码和项目管理，无需在终端中操作。
 
-[English](./README.md) | [日本語](./README_JA.md)
+[English](./README.md)
 
 [![GitHub release](https://img.shields.io/github/v/release/op7418/CodePilot)](https://github.com/op7418/CodePilot/releases)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey)](https://github.com/op7418/CodePilot/releases)
